@@ -1,0 +1,5 @@
+{
+  "name": "단타 수급 추적기",
+  "description": "실시간 시장 변동성과 수급 주도주를 추적하는 소자본 단기 트레이딩 전용 대시보드입니다.",
+  "requestFramePermissions": []
+}
